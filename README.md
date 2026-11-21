@@ -8,7 +8,7 @@ You are equipped with a flashlight which you turn on by pressing F
 
 You can sprint by holding shift
 
-There are 2 entities: a lethal one and a non-lethal one.
+There are 2 entities: a lethal one and a non-lethal one
 
 No entities can spawn before floor 15. After that, the chances of any one entity spawning increases as you go deeper (5% to max 15%)
 
